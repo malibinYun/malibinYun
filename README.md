@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Malibin's github stats](https://github-readme-stats.vercel.app/api?username=nightmare73&show_icons=true&theme=onedark)
+[More About Me! : Notion](https://www.notion.so/Yun-Hyeok-348a6e012ec44f10a4b6d468701a2652)
+
+![Malibin's github stats](https://github-readme-stats.vercel.app/api?username=nightmare73&show_icons=true&theme=dark)
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Android & Spring Boot & Kotlin
