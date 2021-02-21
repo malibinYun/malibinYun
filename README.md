@@ -4,6 +4,6 @@
 
 ### ✔ [More About Me! : Notion](https://www.notion.so/Yun-Hyeok-348a6e012ec44f10a4b6d468701a2652)✔
 
-![Malibin's github stats](https://github-readme-stats.vercel.app/api?username=nightmare73&show_icons=true&theme=dark)
+![Malibin's github stats](https://github-readme-stats.vercel.app/api?username=malibinYun&show_icons=true&theme=dark)
 
-![Malibin's language top](https://github-readme-stats.vercel.app/api/top-langs/?username=nightmare73&layout=compact&theme=dark&?exclude_repo=simulation_basic,junior-recruit-scheduler)
+![Malibin's language top](https://github-readme-stats.vercel.app/api/top-langs/?username=malibinYun&layout=compact&theme=dark&?exclude_repo=simulation_basic,junior-recruit-scheduler)
