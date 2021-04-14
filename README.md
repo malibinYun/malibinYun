@@ -9,4 +9,4 @@
 ![Malibin's language top](https://github-readme-stats.vercel.app/api/top-langs/?username=malibinYun&layout=compact&theme=dark&?exclude_repo=simulation_basic,junior-recruit-scheduler)
 
 ### Other Activities
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile30.uf.tistory.com%2Fimage%2F9986A64E5FD398480F0E67" width=80 href="https://www.youtube.com/channel/UCR4MhDhNwn_23RPCuCHa-lw"/>
+<a href="https://www.youtube.com/channel/UCR4MhDhNwn_23RPCuCHa-lw"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile30.uf.tistory.com%2Fimage%2F9986A64E5FD398480F0E67" width=80/></a>
